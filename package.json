@@ -1,0 +1,30 @@
+{
+  "name": "pirulug-extension-pack",
+  "displayName": "Pirulug Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "pirulug",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "pirulug"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pirulug/pirulug-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pirulug/pirulug-extension-pack/issues"
+  },
+  "icon": "brackets-logo.png",
+  "extensionPack": [
+    "pirulug.intellisense-bootstrap-5-by-pirulug",
+    "pirulug.bootstrap5-snippets",
+    "pirulug.pirulug-keymap",
+    "pirulug.pirulug-theme"
+  ]
+}
