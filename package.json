@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/Pirulug/pirulug-extension-pack/issues"
   },
-  "icon": "brackets-logo.png",
+  "icon": "icon-pirulug.png",
   "extensionPack": [
     "pirulug.intellisense-bootstrap-5-by-pirulug",
     "pirulug.bootstrap5-snippets",
