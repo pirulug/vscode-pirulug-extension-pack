@@ -2,7 +2,7 @@
   "name": "pirulug-extension-pack",
   "displayName": "Pirulug Extension Pack",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "pirulug",
   "engines": {
     "vscode": "^1.92.0"
@@ -22,9 +22,10 @@
   },
   "icon": "icon-pirulug.png",
   "extensionPack": [
-    "pirulug.intellisense-bootstrap-5-by-pirulug",
-    "pirulug.bootstrap5-snippets",
+    "pirulug.pirulug-theme",
+    "pirulug.pirulug-icons",
     "pirulug.pirulug-keymap",
-    "pirulug.pirulug-theme"
+    "pirulug.bootstrap5-snippets",
+    "pirulug.intellisense-bootstrap-5-by-pirulug"
   ]
 }
